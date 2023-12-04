@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+
+button {
+  background-color: black;
+  color: aliceblue;
+  border: none;
+  padding: 20px;
+  width: 100px;
+}
